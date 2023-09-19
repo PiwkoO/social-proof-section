@@ -164,7 +164,7 @@ html {
 
   .social-proof__ratings {
     padding-right: 24px;
-    margin: 0;
+    margin: 24px 0 0;
   }
 
   .ratings__rating {
