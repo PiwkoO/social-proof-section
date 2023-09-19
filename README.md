@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/social-proof-section-Wu_z8S5z7p)
+- [Live preview](https://piwkoo.github.io/social-proof-section/)
 
 ## My process
 
