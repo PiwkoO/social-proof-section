@@ -153,6 +153,9 @@ html {
   }
 
   .social-proof__heading {
+    font-size: 5.6rem;
+    line-height: 4.8rem;
+    letter-spacing: -0.2rem;
     text-align: left;
   }
   .social-proof__desc {
